@@ -1,0 +1,5 @@
+Automatic tests: 	Consistent failures on 3rd suite.
+Interactive tests: 	OK
+Code inspection:	OK (minor issue left)
+
+Overall evalutaton: (to be corrected)
