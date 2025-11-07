@@ -1,1 +1,1 @@
-Shell Project for an Operating Systems Course
+Shell Project for an Operating Systems Course, Winter 2024
